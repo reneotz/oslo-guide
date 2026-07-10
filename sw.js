@@ -1,5 +1,5 @@
 /* service worker — offline cache for the guest guide */
-const CACHE = 'guide-v1';
+const CACHE = 'guide-v2';
 const ASSETS = [
  "./",
  "index.html",
